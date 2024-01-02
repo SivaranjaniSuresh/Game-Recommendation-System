@@ -4,7 +4,7 @@
 
 ## Overview
 
-Welcome to the "Game Recommendations on Steam" project repository! 🚀 This project aims to elevate your gaming experience on the Steam platform by providing personalized game recommendations. Leveraging collaborative filtering, content-based filtering, and hybrid models, we're here to deliver accurate and diverse suggestions tailored to your gaming preferences. 🕹️
+Welcome to the "Game Recommendations on Steam" project! 🚀 This project aims to elevate your gaming experience on the Steam platform by providing personalized game recommendations. Leveraging collaborative filtering, content-based filtering, and hybrid models, we're here to deliver accurate and diverse suggestions tailored to your gaming preferences. 🕹️
 
 ## Datasets 📊
 
@@ -64,7 +64,7 @@ In addition to collaborative and content-based recommendation techniques, our pr
 
 ## Conclusion 🎉
 
-Explore and experiment with different recommendation techniques in this repository. Feel free to contribute, report issues, or suggest improvements. Happy gaming and coding! 🚀🎮
+Explore and experiment with different recommendation techniques in this project. Feel free to contribute, report issues, or suggest improvements. Happy gaming and coding! 🚀🎮
 
 
 Explore and experiment with different recommendation techniques in this repository. Feel free to contribute, report issues, or suggest improvements. Happy gaming and coding!
